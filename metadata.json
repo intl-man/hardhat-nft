@@ -1,0 +1,12 @@
+{
+  "attributes" : [ {
+    "trait_type" : "Traveller",
+    "value" : "Perpetual"
+  }, {
+    "trait_type" : "Free man",
+    "value" : "true"
+  } ],
+  "description" : "International Man",
+  "image" : "https://intlman.mypinata.cloud/ipfs/QmcRGmMJE9r1TKkYoTjKYP4rtisKnQ8ufoeVL5Stoi6BFc",
+  "name" : "IM"
+}
