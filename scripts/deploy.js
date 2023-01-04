@@ -1,10 +1,8 @@
 async function main() {
-  // Grab the contract factory
   const im = await ethers.getContractFactory("IM");
 
-  // Start deployment, returning a promise that resolves to a contract object
-  const imNFT = await im.deploy(); // Instance of the contract
-  console.log("Contract deployed to address:", imNFT.address);
+  const imNFT = await im.deploy();
+  console.log("Deployed to:", imNFT.address);
 }
 
 main()
